@@ -69,10 +69,10 @@ struct ContentView: View {
 //                Spacer()
 //                Spacer()
                
-//                Image("ingridients").resizable()
-//                    .frame(width: 350,height: 300)
-//                    .cornerRadius(20)
-//                    .shadow(radius: 30).padding()
+                Image("ingridients").resizable()
+                    .frame(width: 350,height: 300)
+                    .cornerRadius(20)
+                    .shadow(radius: 30).padding()
                 Spacer()
                     
             }
